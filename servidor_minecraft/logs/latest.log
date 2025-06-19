@@ -241,3 +241,91 @@
 [22:45:28] [Server thread/INFO]: Villager Villager['Villager'/320, uuid='205a0f3b-b29f-447f-bc8c-e5e3dc51c84e', l='ServerLevel[world]', x=212.47, y=67.00, z=88.63, cpos=[13, 5], tl=30600, v=true] died, message: 'Villager was slain by Zombie'
 [22:45:35] [Server thread/INFO]: Villager Villager['Leatherworker'/338, uuid='29acc9fb-d6fc-4d2d-8595-f956ba57b5ea', l='ServerLevel[world]', x=211.17, y=67.00, z=88.46, cpos=[13, 5], tl=30931, v=true] died, message: 'Leatherworker was slain by Zombie Villager'
 [22:46:28] [Server thread/INFO]: WaPapAu19 has made the advancement [Diamonds!]
+[23:03:56] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.283153206405359
+[23:03:56] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.6292032484302581
+[23:03:56] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 0.7978099510587526
+[23:03:56] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 1.0446449342741744
+[23:03:56] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 1.3014820822434103
+[23:06:25] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[23:09:20] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Cover Me with Diamonds]
+[23:18:02] [Server thread/INFO]: WaPapAu19 has made the advancement [Best Friends Forever]
+[23:18:46] [User Authenticator #7/INFO]: UUID of player Marcipoyo is 484ed2ae-b12e-3bcc-8f11-529273c80201
+[23:18:47] [Server thread/INFO]: Marcipoyo joined the game
+[23:18:47] [Server thread/INFO]: Marcipoyo[/127.223.49.214:60833] logged in with entity id 59256 at ([world]2415.019979872145, 68.76636799395752, -3173.822673184083)
+[23:19:06] [Async Chat Thread - #14/INFO]: [Not Secure] <WaPapAu19> tenias que adbertirnos
+[23:19:15] [Async Chat Thread - #14/INFO]: [Not Secure] <XxClemexX> metete al discord
+[23:19:16] [Server thread/INFO]: Marcipoyo has made the advancement [Isn't It Iron Pick]
+[23:22:08] [Server thread/INFO]: XxClemexX has made the advancement [Cover Me with Diamonds]
+[23:22:34] [Server thread/INFO]: Marcipoyo was slain by Zombie
+[23:22:37] [Async Chat Thread - #16/INFO]: [Not Secure] <XxClemexX> F
+[23:22:40] [Async Chat Thread - #16/INFO]: [Not Secure] <Marcipoyo> chat
+[23:22:41] [Async Chat Thread - #16/INFO]: [Not Secure] <WaPapAu19> malo
+[23:22:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Marcipoyo> se bugeo
+[23:22:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Marcipoyo> lo juro
+[23:22:48] [Async Chat Thread - #16/INFO]: [Not Secure] <WaPapAu19> F
+[23:22:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Marcipoyo> me fokin mori solo
+[23:22:54] [Async Chat Thread - #16/INFO]: [Not Secure] <XxClemexX> MEtete al discord
+[23:24:32] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[23:25:16] [Server thread/INFO]: XxClemexX has made the advancement [Who is Cutting Onions?]
+[23:26:39] [Async Chat Thread - #18/INFO]: [Not Secure] <WaPapAu19> was splain by zombie
+[23:26:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Pedrinho08082010> jajajajjajajaj
+[23:26:54] [Server thread/INFO]: XxClemexX issued server command: /tp 2900 100 -3000
+[23:26:54] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2900.500000, 100.000000, -2999.500000]
+[23:26:54] [Server thread/INFO]: XxClemexX has completed the challenge [Hot Tourist Destinations]
+[23:26:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Pedrinho08082010> jejeje
+[23:27:01] [Server thread/INFO]: XxClemexX issued server command: /tp 0 100 0
+[23:27:01] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 100.000000, 0.500000]
+[23:27:03] [Server thread/INFO]: XxClemexX was doomed to fall
+[23:27:21] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2900 100 -3000
+[23:27:21] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2900.500000, 100.000000, -2999.500000]
+[23:27:40] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2900 50 -3000
+[23:27:40] [Server thread/INFO]: Marcipoyo has made the advancement [We Need to Go Deeper]
+[23:27:40] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2900.500000, 50.000000, -2999.500000]
+[23:27:41] [Server thread/INFO]: Marcipoyo fell from a high place
+[23:27:57] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2900 50 -3000
+[23:27:57] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2900.500000, 50.000000, -2999.500000]
+[23:28:07] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2900 60 -3000
+[23:28:07] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2900.500000, 60.000000, -2999.500000]
+[23:28:11] [Server thread/INFO]: Marcipoyo suffocated in a wall
+[23:28:19] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2900 70 -3000
+[23:28:19] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2900.500000, 70.000000, -2999.500000]
+[23:28:35] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[23:28:35] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
+[23:29:39] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[23:29:39] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[23:29:55] [Server thread/INFO]: XxClemexX issued server command: /tp 800 100 100
+[23:29:55] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 800.500000, 100.000000, 100.500000]
+[23:30:55] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[23:30:55] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
+[23:31:23] [Server thread/INFO]: XxClemexX issued server command: /tp -30 10 -30
+[23:31:23] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to -29.500000, 10.000000, -29.500000]
+[23:31:42] [Server thread/INFO]: XxClemexX issued server command: /locate biome minecraft:warped_forest
+[23:31:42] [Server thread/INFO]: Locating element minecraft:warped_forest took 2 ms
+[23:31:44] [Server thread/INFO]: XxClemexX issued server command: /tp @s 128 65 -26
+[23:31:44] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 128.500000, 65.000000, -25.500000]
+[23:39:28] [Server thread/INFO]: XxClemexX issued server command: /locate structure minecraft:bastion_remnant
+[23:39:28] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[23:41:48] [Server thread/INFO]: XxClemexX issued server command: /effect give Marcipoyo minecraft:saturation 1 99
+[23:41:48] [Server thread/INFO]: [XxClemexX: Applied effect Saturation to Marcipoyo]
+[23:41:52] [Server thread/INFO]: XxClemexX issued server command: /effect give Marcipoyo minecraft:saturation 1 99
+[23:41:52] [Server thread/INFO]: [XxClemexX: Applied effect Saturation to Marcipoyo]
+[23:42:03] [Server thread/INFO]: XxClemexX issued server command: /effect give Marcipoyo minecraft:health_boost 30 99
+[23:42:03] [Server thread/INFO]: [XxClemexX: Applied effect Health Boost to Marcipoyo]
+[23:43:14] [Server thread/INFO]: Marcipoyo was slain by Zombie
+[23:43:44] [Server thread/INFO]: XxClemexX issued server command: /locate structure minecraft:bastion_remnant
+[23:43:44] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[23:43:48] [Server thread/INFO]: XxClemexX issued server command: /tp @s 1120 ~ -272
+[23:43:48] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 1120.500000, 99.447700, -271.500000]
+[23:44:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[23:44:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[23:46:35] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2700 70 -2900
+[23:46:35] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2700.500000, 70.000000, -2899.500000]
+[23:49:44] [Async Chat Thread - #20/INFO]: [Not Secure] <XxClemexX> 1101 68 -269
+[23:50:15] [Server thread/INFO]: XxClemexX issued server command: /fill 1104 68 -272 1104 68 -272 minecraft:nether_portal
+[23:50:15] [Server thread/INFO]: [XxClemexX: Successfully filled 1 block(s)]
+[23:50:20] [Server thread/INFO]: XxClemexX issued server command: /fill 1104 68 -272 1104 68 -272 minecraft:nether_portal
+[23:50:20] [Server thread/INFO]: [XxClemexX: Successfully filled 1 block(s)]
+[23:50:27] [Server thread/INFO]: XxClemexX has completed the challenge [Subspace Bubble]
+[23:50:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[23:50:35] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo 2700 70 -2900
+[23:50:35] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to 2700.500000, 70.000000, -2899.500000]
