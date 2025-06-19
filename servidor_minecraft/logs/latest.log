@@ -104,3 +104,20 @@
 [21:37:00] [Async Chat Thread - #0/INFO]: [Not Secure] <XxClemexX> hay que hablar por disc
 [21:37:04] [Async Chat Thread - #0/INFO]: [Not Secure] <WaPapAu19> ok
 [21:38:36] [Async Chat Thread - #2/INFO]: [Not Secure] <XxClemexX> metete a mi disc
+[21:40:30] [Server thread/INFO]: XxClemexX issued server command: /time set day
+[21:40:30] [Server thread/INFO]: [XxClemexX: Set the time to 1000]
+[21:41:25] [Server thread/INFO]: WaPapAu19 has made the advancement [Stone Age]
+[21:42:08] [Server thread/INFO]: WaPapAu19 has made the advancement [Getting an Upgrade]
+[21:42:57] [Server thread/INFO]: XxClemexX has made the advancement [Getting an Upgrade]
+[21:44:30] [Server thread/INFO]: WaPapAu19 has made the advancement [Monster Hunter]
+[21:44:32] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[21:44:32] [Server thread/INFO]: XxClemexX left the game
+[21:46:27] [User Authenticator #2/INFO]: UUID of player Pedrinho08082010 is 4417e01d-690d-3020-b15e-49d9cd099c70
+[21:46:28] [Server thread/INFO]: Pedrinho08082010 joined the game
+[21:46:28] [Server thread/INFO]: Pedrinho08082010[/127.22.129.45:46749] logged in with entity id 2690 at ([world]5.5, 69.0, 3.5)
+[21:46:43] [User Authenticator #2/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[21:46:45] [Server thread/INFO]: XxClemexX joined the game
+[21:46:45] [Server thread/INFO]: XxClemexX[/127.125.129.41:60207] logged in with entity id 2798 at ([world]-111.2570965079779, 68.0, 54.33425192349063)
+[21:46:58] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[21:48:09] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[21:49:25] [Server thread/INFO]: XxClemexX has made the advancement [Stone Age]
