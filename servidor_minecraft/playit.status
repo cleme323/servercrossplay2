@@ -1,1434 +1,444 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1750279321738 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1750283057765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279324838 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283060859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279327931 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283063953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279331022 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283067046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279334114 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283070141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279337203 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283073239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279340298 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283076444 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279343388 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283079532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279346484 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283082622 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279349588 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283085713 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279352682 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283088804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279355777 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283091894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279358866 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283094985 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279361968 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283098079 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279365060 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283101171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279368167 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283104267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279371255 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283107365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279374347 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283110454 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279377442 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283113553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279380532 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283116649 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279383627 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283119741 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279386718 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283122833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279389806 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283125930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279392897 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283129022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279395995 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283132112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279399096 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283135200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279402205 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283138288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279405308 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283141380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279408414 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283144472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279411516 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283147564 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279414609 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283150657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279417870 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283153749 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279420976 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283156843 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279424074 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283159931 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279427176 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283163019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279430295 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283166142 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279433393 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283169243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279436500 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283172334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279439595 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283175429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279442701 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283178523 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279445813 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283181614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279448912 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283184705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279452022 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283187798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279455129 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283190890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279458248 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283193983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279461346 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283197073 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279464454 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283200170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279467563 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283203264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279470655 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283206354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279473751 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283209445 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279476844 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283212539 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279479934 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283215631 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279483025 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283218720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279486134 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283221814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279489224 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283224903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279492322 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283227996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279495413 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283231097 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279498501 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283234197 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279501589 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283237295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279504677 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283240384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279507784 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283243479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279510874 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283246571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279513963 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283249683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279517053 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283252774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279520144 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283255878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279523250 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283258968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279526339 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283262060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279529428 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283265154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279532522 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283268244 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279535612 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283271337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279538705 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283274438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279541796 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283277530 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279544884 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283280619 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279547972 tunnel running, 2 tunnels registered
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1750283283715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279551074 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279554171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279557259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279560347 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279563440 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279566530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279569623 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279572714 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279575808 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279578910 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279582003 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279585114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279588244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279591353 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279594458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279597553 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279600647 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279603761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279606856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279609961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279613060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279616167 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279619260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279622353 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279625442 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279628538 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279631635 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279634739 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279637841 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279640991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279644087 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279647192 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279650295 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279653388 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279656478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279659572 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279662668 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279665762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279668856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279671960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279675055 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279678155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279681255 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279684354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279687454 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279690549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279693654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279696751 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279699856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279702950 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279706069 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279709175 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279712278 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279715370 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279718465 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279721570 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279724671 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279727806 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279730912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279734030 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279737137 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279740244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279743342 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279746466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279749593 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279752704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279755814 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279758912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279762009 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279765121 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279768229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279771336 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279774437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279777539 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279780635 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279783738 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279786836 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279789934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279793031 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279796130 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279799239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279802355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279805451 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279808555 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279811649 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279814748 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279817856 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279820961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279824065 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279827182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279830280 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279833373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279836466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279839561 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279842656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279845749 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279848842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279851943 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279855050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279858150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279861247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279864345 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279867447 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279870549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279873662 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279876777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279879872 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279882980 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279886090 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279889187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279892287 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279895385 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279898476 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279901585 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279904680 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279907777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279910877 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279913972 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279917064 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279920160 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279923260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279926360 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279929456 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279932561 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279935664 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279938758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279941852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279944946 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279948049 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279951145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279954257 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279957358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279960459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279963687 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279966795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279969885 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279972984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279976079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279979177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279982267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279985370 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279988464 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279991560 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279994655 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750279997747 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280000843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280003938 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280007043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280010153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280013253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280016346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280019437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280022526 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280025620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280028714 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280031809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280034903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280037999 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280041098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280044192 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280047296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280050400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280053494 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280056587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1750280059676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-within-buddy.gl.at.ply.gg:2563 => 127.0.0.1:2563 (minecraft-bedrock)
-medium-odds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partner-enhancement.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
