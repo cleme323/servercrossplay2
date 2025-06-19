@@ -195,3 +195,19 @@
 [22:09:19] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Acquire Hardware]
 [22:10:28] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Sweet Dreams]
 [22:10:47] [Async Chat Thread - #12/INFO]: [Not Secure] <WaPapAu19> yo ta ki iopñ{
+[22:13:21] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[22:13:27] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Not Today, Thank You]
+[22:13:29] [Server thread/INFO]: Pedrinho08082010 was shot by Skeleton
+[22:15:59] [Server thread/INFO]: XxClemexX issued server command: /tp Pedrinho08082010 -200 80 100
+[22:15:59] [Server thread/INFO]: [XxClemexX: Teleported Pedrinho08082010 to -199.500000, 80.000000, 100.500000]
+[22:16:19] [Server thread/INFO]: XxClemexX issued server command: /tp Pedrinho08082010 -100 80 200
+[22:16:19] [Server thread/INFO]: [XxClemexX: Teleported Pedrinho08082010 to -99.500000, 80.000000, 200.500000]
+[22:16:43] [Server thread/INFO]: XxClemexX issued server command: /effect give Pedrinho08082010 minecraft:saturation 1 99
+[22:16:43] [Server thread/INFO]: [XxClemexX: Applied effect Saturation to Pedrinho08082010]
+[22:19:43] [Server thread/INFO]: Pedrinho08082010 has made the advancement [Isn't It Iron Pick]
+[22:20:08] [Server thread/WARN]: WaPapAu19 was kicked for floating too long!
+[22:20:08] [Server thread/INFO]: WaPapAu19 lost connection: Flying is not enabled on this server
+[22:20:08] [Server thread/INFO]: WaPapAu19 left the game
+[22:20:26] [User Authenticator #4/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
+[22:20:28] [Server thread/INFO]: WaPapAu19 joined the game
+[22:20:28] [Server thread/INFO]: WaPapAu19[/127.127.60.14:52331] logged in with entity id 30679 at ([world]3890.1572903945535, 65.77080861019918, -208.55570232227416)
