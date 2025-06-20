@@ -160,3 +160,6 @@
 [21:12:24] [User Authenticator #4/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
 [21:12:25] [Server thread/INFO]: WaPapAu19 joined the game
 [21:12:25] [Server thread/INFO]: WaPapAu19[/127.127.60.14:57789] logged in with entity id 54161 at ([world]7950.699999988079, 8.875, -5912.3010895145535)
+[21:20:28] [Server thread/INFO]: Villager Villager['Nitwit'/48967, uuid='e55c107b-6410-4239-a234-69fc35f3b662', l='ServerLevel[world]', x=2480.46, y=67.12, z=-4341.83, cpos=[155, -272], tl=38929, v=true] died, message: 'Nitwit was slain by Zombie'
+[21:22:32] [Server thread/INFO]: XxClemexX issued server command: /deop XxClemexX
+[21:22:32] [Server thread/INFO]: [XxClemexX: Made XxClemexX no longer a server operator]
