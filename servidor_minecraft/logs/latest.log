@@ -108,3 +108,14 @@
 [17:56:36] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [17:56:36] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [17:59:29] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[18:01:13] [User Authenticator #2/INFO]: UUID of player Marcipoyo is 484ed2ae-b12e-3bcc-8f11-529273c80201
+[18:01:15] [Server thread/INFO]: Marcipoyo joined the game
+[18:01:15] [Server thread/INFO]: Marcipoyo[/127.223.49.214:34593] logged in with entity id 2779 at ([world]2504.6623804439096, 108.0, -3152.300000011921)
+[18:02:12] [Async Chat Thread - #0/INFO]: [Not Secure] <XxClemexX> disc
+[18:02:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcipoyo> bue
+[18:06:54] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[18:06:54] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[18:07:03] [Server thread/INFO]: Marcipoyo lost connection: Disconnected
+[18:07:03] [Server thread/INFO]: Marcipoyo left the game
+[18:09:29] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[18:09:29] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
