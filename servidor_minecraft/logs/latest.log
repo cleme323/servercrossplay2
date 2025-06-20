@@ -149,3 +149,9 @@
 [20:30:52] [Async Chat Thread - #2/INFO]: [Not Secure] <WaPapAu19> estare AFK un poco por si acaso
 [20:30:59] [Async Chat Thread - #2/INFO]: [Not Secure] <XxClemexX> vale
 [20:31:42] [Server thread/INFO]: XxClemexX drowned
+[20:47:20] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[20:47:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[20:48:01] [Server thread/INFO]: XxClemexX issued server command: /tp 2469 70 -4320
+[20:48:01] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2469.500000, 70.000000, -4319.500000]
+[20:49:08] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[20:49:08] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
