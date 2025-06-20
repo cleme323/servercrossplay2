@@ -464,3 +464,37 @@
 [02:59:42] [Server thread/INFO]: Mr_Martin14 issued server command: /skin themimic
 [03:00:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
 [03:00:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:01:14] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:01:14] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:02:42] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:02:42] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:03:02] [Server thread/INFO]: Mr_Martin14 issued server command: /skin themimic
+[03:03:07] [Server thread/INFO]: Mr_Martin14 issued server command: /skin themimicfnaf
+[03:03:16] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:03:16] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:03:20] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:03:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:03:26] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[03:03:26] [Server thread/INFO]: Zmind92 left the game
+[03:03:33] [Server thread/INFO]: XxClemexX has made the advancement [Minecraft: Trial(s) Edition]
+[03:03:48] [Server thread/INFO]: Mr_Martin14 issued server command: /skin themimicfnaf
+[03:03:52] [Server thread/INFO]: XxClemexX issued server command: /advancement revoke XxClemexX only minecraft:adventure/minecraft_trials_edition
+[03:03:52] [Server thread/INFO]: [XxClemexX: Revoked the advancement [Minecraft: Trial(s) Edition] from XxClemexX]
+[03:04:01] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnafsisterlocation
+[03:04:05] [Server thread/INFO]: Mr_Martin14 issued server command: /skin sisterlocation
+[03:04:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:04:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:04:15] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf4
+[03:06:51] [Server thread/INFO]: XxClemexX has made the advancement [Enchanter]
+[03:07:21] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:07:21] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:07:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:07:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:09:14] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf4
+[03:09:50] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[03:09:50] [Server thread/INFO]: XxClemexX left the game
+[03:10:07] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf2
+[03:10:11] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf3
+[03:10:47] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf3
+[03:11:01] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf5
+[03:11:09] [User Authenticator #22/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
