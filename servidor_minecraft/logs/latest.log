@@ -245,3 +245,7 @@
 [22:32:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
 [22:32:44] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [22:32:44] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[22:48:02] [User Authenticator #8/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[22:48:05] [Server thread/INFO]: Zmind92 joined the game
+[22:48:05] [Server thread/INFO]: Zmind92[/127.61.129.132:50829] logged in with entity id 85066 at ([world]1281.8962520443506, 46.0, 675.4336113921044)
+[22:48:12] [Async Chat Thread - #26/INFO]: [Not Secure] <XxClemexX> buenas
