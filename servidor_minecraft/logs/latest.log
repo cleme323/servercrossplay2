@@ -718,3 +718,32 @@
 [05:34:07] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [05:35:52] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
 [05:35:52] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:36:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:36:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:37:13] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:37:13] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:38:06] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:38:06] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:39:02] [Server thread/WARN]: XxClemexX moved wrongly!
+[05:40:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:40:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:40:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:40:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:41:24] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:41:24] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:41:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:41:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:41:36] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:41:36] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:41:38] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:41:38] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:42:56] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:42:56] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:43:16] [Server thread/INFO]: XxClemexX issued server command: /locate structure minecraft:village_plains
+[05:43:16] [Server thread/INFO]: Locating element minecraft:village_plains took 16 ms
+[05:44:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:44:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:46:00] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:46:00] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:46:11] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:46:11] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
