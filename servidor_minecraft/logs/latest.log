@@ -498,3 +498,63 @@
 [03:10:47] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf3
 [03:11:01] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf5
 [03:11:09] [User Authenticator #22/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[03:11:10] [Server thread/INFO]: XxClemexX joined the game
+[03:11:10] [Server thread/INFO]: XxClemexX[/127.125.129.41:59981] logged in with entity id 228578 at ([world]2241.4336417046707, 0.0, -3360.3343338348704)
+[03:11:16] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf5
+[03:11:17] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf5
+[03:11:19] [Server thread/INFO]: Mr_Martin14 issued server command: /skin fnaf5
+[03:11:26] [Server thread/INFO]: Marcipoyo has made the advancement [The Cutest Predator]
+[03:11:40] [Server thread/INFO]: XxClemexX has made the advancement [The Cutest Predator]
+[03:13:13] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
+[03:13:13] [Server thread/INFO]: Mr_Martin14 left the game
+[03:13:33] [User Authenticator #23/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[03:13:47] [Server thread/INFO]: Mr_Martin14 (/127.29.184.5:58953) lost connection: Disconnected
+[03:13:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:13:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:13:52] [User Authenticator #23/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[03:13:54] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:13:54] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:13:55] [Server thread/INFO]: Mr_Martin14 (/127.29.184.5:52699) lost connection: Disconnected
+[03:14:46] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:14:46] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:15:01] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:15:01] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:15:21] [User Authenticator #24/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[03:15:23] [Server thread/INFO]: Mr_Martin14 joined the game
+[03:15:23] [Server thread/INFO]: Mr_Martin14[/127.29.184.5:40549] logged in with entity id 230102 at ([world]9194.834104271291, 156.1592101268059, -2013.7720974856093)
+[03:16:07] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:16:07] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:17:00] [Server thread/INFO]: XxClemexX issued server command: /tp Marcipoyo XxClemexX
+[03:17:00] [Server thread/INFO]: [XxClemexX: Teleported Marcipoyo to XxClemexX]
+[03:17:04] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:17:04] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:17:43] [Server thread/INFO]: Marcipoyo has made the advancement [Cover Me with Diamonds]
+[03:18:08] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[03:18:08] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[03:18:18] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:18:18] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:22:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:22:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:22:08] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:22:08] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:22:26] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[03:22:26] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[03:22:35] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:22:35] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:29:23] [Server thread/INFO]: Villager Villager['Butcher'/239326, uuid='2899be26-7eb2-4c04-9b98-903e7f835c89', l='ServerLevel[world]', x=7339.50, y=78.00, z=-2217.70, cpos=[458, -139], tl=3770, v=true] died, message: 'Butcher was slain by Zombie'
+[03:29:27] [Async Chat Thread - #61/INFO]: [Not Secure] <Marcipoyo> mimimimimi
+[03:29:37] [Async Chat Thread - #61/INFO]: [Not Secure] <Marcipoyo> zzz
+[03:29:55] [User Authenticator #25/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[03:29:55] [Server thread/INFO]: AFKBot joined the game
+[03:29:55] [Server thread/INFO]: AFKBot[/127.208.219.10:59029] logged in with entity id 243224 at ([world]-3.5, 65.17977553657329, -1.5)
+[03:30:56] [Async Chat Thread - #63/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[03:31:56] [Async Chat Thread - #63/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[03:32:56] [Async Chat Thread - #63/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[03:33:03] [Async Chat Thread - #63/INFO]: [Not Secure] <Mr_Martin14> Me too!
+[03:33:56] [Async Chat Thread - #63/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[03:34:56] [Async Chat Thread - #65/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[03:35:00] [Server thread/INFO]: AFKBot starved to death
+[03:35:56] [Async Chat Thread - #65/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[03:36:56] [Async Chat Thread - #65/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[03:37:37] [Server thread/INFO]: AFKBot lost connection: Disconnected
+[03:37:37] [Server thread/INFO]: AFKBot left the game
