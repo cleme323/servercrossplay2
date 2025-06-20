@@ -208,3 +208,8 @@
 [01:44:16] [User Authenticator #15/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
 [01:44:17] [Server thread/INFO]: Zmind92 joined the game
 [01:44:17] [Server thread/INFO]: Zmind92[/127.61.129.132:38853] logged in with entity id 159489 at ([world]-184.69999998807907, -3.0, 14.520704396553834)
+[01:49:44] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[01:49:44] [Server thread/INFO]: Zmind92 left the game
+[01:54:43] [Server thread/INFO]: XxClemexX suffocated in a wall
+[01:54:47] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:54:47] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
