@@ -563,3 +563,23 @@
 [03:47:16] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
 [03:47:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [03:47:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[03:53:35] [Server thread/INFO]: XxClemexX issued server command: /skin set nigger
+[03:53:41] [Server thread/INFO]: XxClemexX issued server command: /skin set nigga
+[03:53:52] [Server thread/INFO]: XxClemexX issued server command: /skin set baller
+[03:54:08] [Server thread/INFO]: XxClemexX issued server command: /skin set dinnerbone
+[03:54:24] [Server thread/INFO]: XxClemexX issued server command: /skin set XxClemexX
+[03:55:28] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:enderman
+[03:55:28] [Server thread/INFO]: [XxClemexX: Summoned new Enderman]
+[03:57:37] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:enderman
+[03:57:37] [Server thread/INFO]: [XxClemexX: Summoned new Enderman]
+[03:59:57] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
+[03:59:57] [Server thread/INFO]: Mr_Martin14 left the game
+[04:00:05] [User Authenticator #26/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[04:00:24] [Server thread/INFO]: Mr_Martin14 (/127.29.184.5:42235) lost connection: Disconnected
+[04:01:54] [User Authenticator #27/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[04:02:05] [Server thread/INFO]: Mr_Martin14 (/127.29.184.5:37411) lost connection: Disconnected
+[04:02:19] [User Authenticator #27/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[04:02:20] [Server thread/INFO]: Mr_Martin14 joined the game
+[04:02:20] [Server thread/INFO]: Mr_Martin14[/127.29.184.5:51063] logged in with entity id 269837 at ([world]9203.40462371126, 154.0, -2003.4124356383518)
+[04:03:06] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[04:03:06] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
