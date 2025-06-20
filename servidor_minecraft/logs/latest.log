@@ -583,3 +583,11 @@
 [04:02:20] [Server thread/INFO]: Mr_Martin14[/127.29.184.5:51063] logged in with entity id 269837 at ([world]9203.40462371126, 154.0, -2003.4124356383518)
 [04:03:06] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
 [04:03:06] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[04:04:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[04:04:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[04:07:12] [Server thread/INFO]: XxClemexX issued server command: /skin set vegetta777
+[04:08:00] [Server thread/INFO]: XxClemexX issued server command: /skin set XxClemexX
+[04:08:52] [Server thread/INFO]: XxClemexX issued server command: /tp 4500 111 -3483
+[04:08:52] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 4500.500000, 111.000000, -3482.500000]
+[04:10:35] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
+[04:10:35] [Server thread/INFO]: Mr_Martin14 left the game
