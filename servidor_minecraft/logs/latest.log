@@ -163,3 +163,8 @@
 [21:20:28] [Server thread/INFO]: Villager Villager['Nitwit'/48967, uuid='e55c107b-6410-4239-a234-69fc35f3b662', l='ServerLevel[world]', x=2480.46, y=67.12, z=-4341.83, cpos=[155, -272], tl=38929, v=true] died, message: 'Nitwit was slain by Zombie'
 [21:22:32] [Server thread/INFO]: XxClemexX issued server command: /deop XxClemexX
 [21:22:32] [Server thread/INFO]: [XxClemexX: Made XxClemexX no longer a server operator]
+[21:39:35] [Server thread/INFO]: Made XxClemexX a server operator
+[21:39:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[21:39:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[21:40:16] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[21:40:16] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
