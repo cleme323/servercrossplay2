@@ -5,3 +5,28 @@
 [00:06:34] [Server thread/INFO]: XxClemexX has made the advancement [A Terrible Fortress]
 [00:07:36] [Server thread/INFO]: XxClemexX has made the advancement [Into Fire]
 [00:08:29] [Server thread/INFO]: XxClemexX has made the advancement [Not Today, Thank You]
+[00:14:39] [Server thread/INFO]: Pedrinho08082010 lost connection: Disconnected
+[00:14:39] [Server thread/INFO]: Pedrinho08082010 left the game
+[00:16:18] [User Authenticator #10/INFO]: UUID of player Pedrinho08082010 is 4417e01d-690d-3020-b15e-49d9cd099c70
+[00:16:19] [Server thread/INFO]: Pedrinho08082010 joined the game
+[00:16:19] [Server thread/INFO]: Pedrinho08082010[/127.22.129.45:58491] logged in with entity id 99460 at ([world]138.83463199318342, 62.0, 877.2478861696583)
+[00:16:40] [Server thread/INFO]: Pedrinho08082010 lost connection: Disconnected
+[00:16:40] [Server thread/INFO]: Pedrinho08082010 left the game
+[00:17:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[00:17:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[00:17:32] [User Authenticator #11/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[00:17:34] [Server thread/INFO]: Zmind92 joined the game
+[00:17:34] [Server thread/INFO]: Zmind92[/127.61.129.132:48459] logged in with entity id 101408 at ([world]9.5, 69.0, 1.5)
+[00:17:45] [Server thread/INFO]: XxClemexX issued server command: /locate biome minecraft:warped_forest
+[00:17:45] [Server thread/INFO]: Locating element minecraft:warped_forest took 0 ms
+[00:17:48] [Server thread/INFO]: XxClemexX issued server command: /tp @s 127 59 -9
+[00:17:48] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 127.500000, 59.000000, -8.500000]
+[00:19:32] [Server thread/INFO]: Zmind92 was blown up by Creeper
+[00:19:38] [Async Chat Thread - #22/INFO]: [Not Secure] <XxClemexX> f
+[00:20:15] [User Authenticator #12/INFO]: UUID of player Mr_Martin14 is 3b05648d-9204-3333-a32e-8f68f50e0a67
+[00:20:17] [Server thread/INFO]: Mr_Martin14 joined the game
+[00:20:17] [Server thread/INFO]: Mr_Martin14[/127.29.184.5:54655] logged in with entity id 104087 at ([world]0.5, 67.0, 8.5)
+[00:21:02] [Server thread/INFO]: Mr_Martin14 has made the advancement [Stone Age]
+[00:21:31] [Server thread/INFO]: Zmind92 has made the advancement [Stone Age]
+[00:21:42] [Server thread/INFO]: Zmind92 has made the advancement [Getting an Upgrade]
+[00:21:50] [Server thread/INFO]: Mr_Martin14 has made the advancement [Getting an Upgrade]
