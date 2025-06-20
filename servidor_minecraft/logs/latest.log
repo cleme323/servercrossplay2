@@ -630,3 +630,15 @@
 [04:33:31] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 6300.500000, 100.000000, 300.500000]
 [04:33:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [04:33:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[04:35:23] [Server thread/INFO]: Radosglash lost connection: Disconnected
+[04:35:23] [Server thread/INFO]: Radosglash left the game
+[04:38:12] [User Authenticator #30/INFO]: UUID of player Radosglash is 747edbde-a311-31a1-b59f-4575cde2a873
+[04:38:14] [Server thread/INFO]: Radosglash lost connection: Disconnected
+[04:38:14] [Server thread/INFO]: Radosglash left the game
+[04:38:16] [User Authenticator #30/INFO]: UUID of player Radosglash is 747edbde-a311-31a1-b59f-4575cde2a873
+[04:38:17] [Server thread/INFO]: Radosglash joined the game
+[04:38:17] [Server thread/INFO]: Radosglash[/127.129.243.55:45141] logged in with entity id 294285 at ([world]2513.7992990404578, 106.04289683901332, -3148.954137083154)
+[04:41:42] [Server thread/INFO]: Radosglash has made the advancement [Sweet Dreams]
+[04:43:27] [Server thread/INFO]: Radosglash was slain by Zombie
+[04:44:28] [Server thread/INFO]: Radosglash lost connection: Timed out
+[04:44:28] [Server thread/INFO]: Radosglash left the game
