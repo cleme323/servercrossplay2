@@ -747,3 +747,19 @@
 [05:46:00] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
 [05:46:11] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
 [05:46:11] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:46:44] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:46:44] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:46:54] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:46:54] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:49:23] [Server thread/INFO]: XxClemexX issued server command: /give Marcipoyo minecraft:potato 32
+[05:49:23] [Server thread/INFO]: [XxClemexX: Gave 32 [Potato] to Marcipoyo]
+[05:52:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:52:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:53:16] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:53:16] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:53:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:53:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:53:37] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:53:37] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:53:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:53:45] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
