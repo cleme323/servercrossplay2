@@ -56,3 +56,97 @@
 [00:33:52] [Server thread/INFO]: Mr_Martin14 has made the advancement [Isn't It Iron Pick]
 [00:34:25] [Server thread/INFO]: Zmind92 has made the advancement [Monster Hunter]
 [00:35:08] [Server thread/INFO]: Mr_Martin14 has made the advancement [Suit Up]
+[00:35:32] [Server thread/INFO]: Mr_Martin14 has made the advancement [Sweet Dreams]
+[00:36:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[00:36:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[00:36:08] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[00:36:08] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
+[00:36:11] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[00:36:11] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[00:39:00] [Server thread/INFO]: XxClemexX issued server command: /msg Zmind92 a
+[00:39:59] [Server thread/INFO]: XxClemexX issued server command: /worldborder set 15000
+[00:39:59] [Server thread/INFO]: [XxClemexX: Set the world border to 15000.0 block(s) wide]
+[00:40:00] [Server thread/INFO]: Zmind92 has made the advancement [Isn't It Iron Pick]
+[00:40:03] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
+[00:40:03] [Server thread/INFO]: WaPapAu19 left the game
+[00:40:31] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[00:40:31] [Server thread/INFO]: Zmind92 left the game
+[00:40:41] [User Authenticator #13/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[00:40:42] [Server thread/INFO]: Zmind92 joined the game
+[00:40:42] [Server thread/INFO]: Zmind92[/127.61.129.132:50113] logged in with entity id 129203 at ([world]-182.41324621524603, 9.0, 15.31854573411879)
+[00:40:51] [Server thread/INFO]: Zmind92 has made the advancement [Diamonds!]
+[00:41:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[00:41:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[00:41:11] [Server thread/INFO]: XxClemexX issued server command: /tp -15000
+[00:41:16] [Server thread/INFO]: XxClemexX issued server command: /tp -15000 100 0
+[00:41:16] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to -14999.500000, 100.000000, 0.500000]
+[00:42:00] [Server thread/INFO]: XxClemexX issued server command: /tp -15000 100 -15000
+[00:42:00] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to -14999.500000, 100.000000, -14999.500000]
+[00:42:06] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[00:42:06] [Server thread/INFO]: Zmind92 left the game
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.25607690680897,0.0,-10.161264097333387
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.321107050070395,0.0,-10.192403601280526
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.37963417745516,0.0,-10.22042915409053
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.432308590706043,0.0,-10.24565215095135
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.479715561375997,0.0,-10.268352847524726
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.522381833848726,0.0,-10.288783473899537
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.560781478056924,0.0,-10.307171037149763
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.633886057644077,0.0,-10.334410528066874
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.73823121752332,0.0,-10.369594578882634
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 17.870699030748483,0.0,-10.411906555833294
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 18.028482331236887,0.0,-10.460615182176285
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 18.209053641400942,0.0,-10.51506600341738
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 18.410138227746756,0.0,-10.574670009596055
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 18.629688822733442,0.0,-10.638897088967918
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 18.865861868618936,0.0,-10.707273838326271
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 19.116998159753848,0.0,-10.779374194796377
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 19.38160440736806,0.0,-10.854814699938483
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 19.658336647878855,0.0,-10.933250242097278
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 19.945984300814757,0.0,-11.01437391814183
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 20.243457843780448,0.0,-11.097909515261618
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 20.549776706645957,0.0,-11.183608441002434
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 20.864057363038796,0.0,-11.271250663237334
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 21.185505648798426,0.0,-11.360634451981397
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 21.51340581037107,0.0,-11.451581950397598
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 21.808515947968658,0.0,-11.533434696803821
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 22.07411506477058,0.0,-11.607102166617901
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 22.31315426355991,0.0,-11.673402887694204
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 22.528289536771126,0.0,-11.733073535082143
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 22.721911277532058,0.0,-11.78677711630863
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 22.896170839600586,0.0,-11.835110338132074
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.053004441307507,0.0,-11.87861023662082
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.1941546791046,0.0,-11.917760144223575
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.321189889756738,0.0,-11.952995060132647
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.43552157631484,0.0,-11.984706483610745
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.538420091491275,0.0,-12.013246763984975
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.631028752696807,0.0,-12.038933015641328
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.714376545573828,0.0,-12.062050641519638
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.789389557175923,0.0,-12.08285650425895
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.85690126582938,0.0,-12.101581780228281
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.917661802007842,0.0,-12.118434528154234
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 23.972346283119805,0.0,-12.133602000885789
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.021562314816833,0.0,-12.147252725982568
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.06585674217081,0.0,-12.15953837824421
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.105721725733247,0.0,-12.170595464986777
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.141600209989065,0.0,-12.180546842791465
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.173890844963807,0.0,-12.189503082578424
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.202952415671234,0.0,-12.197563698173155
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.229107828615042,0.0,-12.204818252016233
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.252647699640875,0.0,-12.21134735030204
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.273833583002897,0.0,-12.217223538603601
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.292900877523607,0.0,-12.222512107934907
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.31006144213768,0.0,-12.227271820206992
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.325505949881176,0.0,-12.23155556113839
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.339406006482136,0.0,-12.235410927874513
+[00:42:06] [Server thread/WARN]: Oak Boat (vehicle of Mr_Martin14) moved too quickly! 24.351916057091557,0.0,-12.238880757845106
+[00:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind
+[00:43:07] [Server thread/INFO]: XxClemexX issued server command: /tp 15000 100 15000
+[00:43:07] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 15000.500000, 100.000000, 15000.500000]
+[00:43:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2773ms or 55 ticks behind
+[00:44:40] [Server thread/INFO]: XxClemexX issued server command: /tp 29999999 100 1
+[00:44:40] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 29999999.500000, 100.000000, 1.500000]
+[00:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8109ms or 162 ticks behind
+[00:45:15] [Server thread/INFO]: Mr_Martin14 has made the advancement [We Need to Go Deeper]
+[00:45:46] [Server thread/INFO]: Mr_Martin14 has made the advancement [Monster Hunter]
+[00:45:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[00:45:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
