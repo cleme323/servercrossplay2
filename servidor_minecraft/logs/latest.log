@@ -652,3 +652,17 @@
 [04:48:34] [Server thread/INFO]: [XxClemexX: Summoned new Mooshroom]
 [04:49:00] [Server thread/INFO]: XxClemexX issued server command: /weather clear
 [04:49:00] [Server thread/INFO]: [XxClemexX: Set the weather to clear]
+[05:02:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:02:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:02:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:02:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:02:50] [Server thread/INFO]: XxClemexX issued server command: /enchant XxClemexX minecraft:efficiency 5
+[05:02:50] [Server thread/INFO]: [XxClemexX: Applied enchantment Efficiency V to XxClemexX's item]
+[05:03:56] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:03:56] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:04:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:04:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:04:33] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:04:33] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:04:47] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:04:47] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
