@@ -218,3 +218,22 @@
 [22:13:16] [Async Chat Thread - #16/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
 [22:14:15] [Server thread/INFO]: AFKBot lost connection: Disconnected
 [22:14:15] [Server thread/INFO]: AFKBot left the game
+[22:17:11] [User Authenticator #7/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[22:17:11] [Server thread/INFO]: AFKBot joined the game
+[22:17:11] [Server thread/INFO]: AFKBot[/127.183.90.170:42727] logged in with entity id 73460 at ([world]7941.781111724018, -41.0, -5901.682600818071)
+[22:17:17] [Server thread/INFO]: AFKBot was slain by WaPapAu19
+[22:17:21] [Server thread/INFO]: XxClemexX issued server command: /tp AFKBot WaPapAu19
+[22:17:21] [Server thread/INFO]: [XxClemexX: Teleported AFKBot to WaPapAu19]
+[22:18:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[22:19:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[22:19:56] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[22:19:56] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[22:20:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[22:20:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[22:20:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[22:21:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[22:22:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[22:23:12] [Async Chat Thread - #18/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[22:24:12] [Async Chat Thread - #20/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[22:25:12] [Async Chat Thread - #20/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[22:26:12] [Async Chat Thread - #22/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
