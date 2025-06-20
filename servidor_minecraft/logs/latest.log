@@ -558,3 +558,8 @@
 [03:36:56] [Async Chat Thread - #65/INFO]: [Not Secure] <AFKBot> I'm a regular player
 [03:37:37] [Server thread/INFO]: AFKBot lost connection: Disconnected
 [03:37:37] [Server thread/INFO]: AFKBot left the game
+[03:45:57] [Server thread/INFO]: Villager Villager['Villager'/254683, uuid='4d4de4df-b2f5-4e83-8416-25b5aad70e7b', l='ServerLevel[world]', x=4465.61, y=90.00, z=-3450.86, cpos=[279, -216], tl=4915, v=true] died, message: 'Villager was slain by Zombie'
+[03:47:16] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[03:47:16] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[03:47:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[03:47:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
