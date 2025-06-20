@@ -131,3 +131,21 @@
 [20:20:26] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
 [20:23:27] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
 [20:23:27] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[20:23:57] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[20:23:57] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[20:27:30] [Server thread/INFO]: XxClemexX drowned
+[20:28:05] [Server thread/INFO]: XxClemexX issued server command: /tp 2469 100 -4320
+[20:28:05] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2469.500000, 100.000000, -4319.500000]
+[20:28:07] [Server thread/INFO]: XxClemexX fell from a high place
+[20:28:14] [Server thread/INFO]: XxClemexX issued server command: /tp 2469 70 -4320
+[20:28:14] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2469.500000, 70.000000, -4319.500000]
+[20:29:17] [Server thread/INFO]: XxClemexX was slain by Zombie
+[20:29:32] [Server thread/INFO]: XxClemexX was slain by Zombie
+[20:30:11] [User Authenticator #3/INFO]: UUID of player WaPapAu19 is bc3552b6-6732-35a1-a44d-1460a804648f
+[20:30:13] [Server thread/INFO]: WaPapAu19 joined the game
+[20:30:13] [Server thread/INFO]: WaPapAu19[/127.127.60.14:49413] logged in with entity id 44329 at ([world]7950.699999988079, 8.875, -5912.300000011921)
+[20:30:28] [Async Chat Thread - #2/INFO]: [Not Secure] <XxClemexX> buenas
+[20:30:33] [Async Chat Thread - #2/INFO]: [Not Secure] <WaPapAu19> buenas
+[20:30:52] [Async Chat Thread - #2/INFO]: [Not Secure] <WaPapAu19> estare AFK un poco por si acaso
+[20:30:59] [Async Chat Thread - #2/INFO]: [Not Secure] <XxClemexX> vale
+[20:31:42] [Server thread/INFO]: XxClemexX drowned
