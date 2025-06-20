@@ -213,3 +213,142 @@
 [01:54:43] [Server thread/INFO]: XxClemexX suffocated in a wall
 [01:54:47] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
 [01:54:47] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:58:38] [User Authenticator #16/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[01:58:40] [Server thread/INFO]: Zmind92 joined the game
+[01:58:40] [Server thread/INFO]: Zmind92[/127.61.129.132:57859] logged in with entity id 164026 at ([world]-229.50574577717066, -19.0, 92.01493823261099)
+[01:58:56] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:58:56] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:59:12] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:59:12] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:59:31] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:59:31] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:59:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:59:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:59:45] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:59:45] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:59:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:59:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:59:54] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:59:54] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:00:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:00:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:01:00] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:01:00] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:03:10] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[02:04:04] [Server thread/INFO]: Mr_Martin14 was doomed to fall
+[02:04:24] [User Authenticator #17/INFO]: UUID of player Marcipoyo is 484ed2ae-b12e-3bcc-8f11-529273c80201
+[02:04:25] [Server thread/INFO]: Marcipoyo joined the game
+[02:04:25] [Server thread/INFO]: Marcipoyo[/127.223.49.214:59579] logged in with entity id 167924 at ([world]2903.475427096663, 71.08639997415543, -3171.163548113043)
+[02:04:39] [Server thread/INFO]: XxClemexX issued server command: /tp 0 70 0
+[02:04:39] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 0.500000, 70.000000, 0.500000]
+[02:05:15] [Server thread/INFO]: XxClemexX issued server command: /effect give Mr_Martin14 minecraft:instant_damage 1 2
+[02:05:15] [Server thread/INFO]: [XxClemexX: Applied effect Instant Damage to Mr_Martin14]
+[02:05:15] [Server thread/INFO]: Mr_Martin14 was killed by magic
+[02:05:30] [Async Chat Thread - #31/INFO]: [Not Secure] <Mr_Martin14> abuso de comandos
+[02:05:43] [Async Chat Thread - #31/INFO]: [Not Secure] <Mr_Martin14> quien se une a mi protesta
+[02:05:52] [Async Chat Thread - #31/INFO]: [Not Secure] <Mr_Martin14> iremos desnudos por la ciudad
+[02:05:53] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:05:53] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:06:29] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:06:29] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:06:59] [Async Chat Thread - #33/INFO]: [Not Secure] <Marcipoyo> a?
+[02:07:02] [Async Chat Thread - #33/INFO]: [Not Secure] <XxClemexX> a
+[02:07:13] [Async Chat Thread - #33/INFO]: [Not Secure] <XxClemexX> ven
+[02:07:16] [Async Chat Thread - #33/INFO]: [Not Secure] <Mr_Martin14> bcdefghijklmnñopqrstuvwxyz
+[02:07:17] [Async Chat Thread - #33/INFO]: [Not Secure] <Marcipoyo> no
+[02:07:26] [Async Chat Thread - #33/INFO]: [Not Secure] <XxClemexX> te doy cosas
+[02:07:31] [Async Chat Thread - #33/INFO]: [Not Secure] <Mr_Martin14> no gracias
+[02:07:33] [Async Chat Thread - #33/INFO]: [Not Secure] <Marcipoyo> bendiciones
+[02:07:47] [Async Chat Thread - #33/INFO]: [Not Secure] <XxClemexX> metete al disc
+[02:07:49] [Async Chat Thread - #33/INFO]: [Not Secure] <Marcipoyo> mesi
+[02:08:00] [Async Chat Thread - #33/INFO]: [Not Secure] <Marcipoyo> ya
+[02:08:03] [Async Chat Thread - #33/INFO]: [Not Secure] <Mr_Martin14> ronadlo
+[02:09:20] [Server thread/INFO]: Zmind92 has made the advancement [Suit Up]
+[02:11:08] [Server thread/INFO]: Mr_Martin14 has made the advancement [What a Deal!]
+[02:11:21] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[02:12:22] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:12:22] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:12:31] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:12:31] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:13:26] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:13:26] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:13:35] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:13:35] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:14:00] [Server thread/INFO]: XxClemexX was blown up by Creeper
+[02:14:05] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:14:05] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:14:10] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:14:10] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:14:15] [Async Chat Thread - #35/INFO]: [Not Secure] <Mr_Martin14> malo
+[02:15:28] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[02:15:28] [Server thread/INFO]: Zmind92 left the game
+[02:15:48] [Server thread/INFO]: Marcipoyo was shot by Skeleton
+[02:15:53] [User Authenticator #18/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[02:15:53] [Server thread/INFO]: AFKBot joined the game
+[02:15:53] [Server thread/INFO]: AFKBot[/127.64.146.78:35519] logged in with entity id 176039 at ([world]8.5, 69.1212968405392, 10.5)
+[02:16:28] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> ya chat
+[02:16:30] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> duermanse
+[02:16:31] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> plis
+[02:16:34] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> porfavor
+[02:16:36] [Async Chat Thread - #38/INFO]: [Not Secure] <Marcipoyo> zzz
+[02:16:40] [Async Chat Thread - #38/INFO]: [Not Secure] <Marcipoyo> Zzz
+[02:16:42] [Async Chat Thread - #38/INFO]: [Not Secure] <Marcipoyo> ZZz
+[02:16:48] [Async Chat Thread - #38/INFO]: [Not Secure] <Marcipoyo> chat
+[02:16:53] [Async Chat Thread - #38/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[02:16:54] [Async Chat Thread - #38/INFO]: [Not Secure] <Marcipoyo> se duermen o no?
+[02:16:58] [Async Chat Thread - #38/INFO]: [Not Secure] <Mr_Martin14> no
+[02:17:03] [Server thread/INFO]: AFKBot was slain by Zombie
+[02:17:14] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> I'm a regular player
+[02:17:21] [Async Chat Thread - #37/INFO]: [Not Secure] <Mr_Martin14> kill yourself
+[02:17:31] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> :(
+[02:17:37] [Async Chat Thread - #37/INFO]: [Not Secure] <Marcipoyo> FUCK YOU
+[02:17:53] [Async Chat Thread - #37/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[02:18:03] [Server thread/INFO]: XxClemexX issued server command: /kick AFKBot
+[02:18:03] [Server thread/INFO]: AFKBot lost connection: Kicked by an operator
+[02:18:03] [Server thread/INFO]: AFKBot left the game
+[02:18:03] [Server thread/INFO]: [XxClemexX: Kicked AFKBot: Kicked by an operator]
+[02:18:10] [User Authenticator #19/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[02:18:10] [Server thread/INFO]: AFKBot joined the game
+[02:18:10] [Server thread/INFO]: AFKBot[/127.64.146.78:53993] logged in with entity id 177883 at ([world]2.5, 68.19366615334314, -8.5)
+[02:19:10] [Server thread/INFO]: Marcipoyo was shot by Skeleton
+[02:19:10] [Async Chat Thread - #39/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[02:19:37] [Server thread/INFO]: AFKBot was slain by Zombie
+[02:20:10] [Async Chat Thread - #39/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[02:20:54] [User Authenticator #20/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[02:20:56] [Server thread/INFO]: Zmind92 joined the game
+[02:20:56] [Server thread/INFO]: Zmind92[/127.61.129.132:40659] logged in with entity id 181103 at ([world]-111.68395778488883, 67.0, -30.005468234002052)
+[02:21:10] [Async Chat Thread - #39/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[02:22:10] [Async Chat Thread - #41/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[02:23:10] [Async Chat Thread - #41/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[02:24:10] [Async Chat Thread - #44/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[02:24:22] [Async Chat Thread - #44/INFO]: [Not Secure] <Mr_Martin14> Hello
+[02:24:25] [Server thread/INFO]: Zmind92 has made the advancement [A Seedy Place]
+[02:24:27] [Async Chat Thread - #44/INFO]: [Not Secure] <Mr_Martin14> Open the window
+[02:24:34] [Server thread/INFO]: XxClemexX issued server command: /give Marcipoyo minecraft:furnace 4
+[02:24:34] [Server thread/INFO]: [XxClemexX: Gave 4 [Furnace] to Marcipoyo]
+[02:25:10] [Async Chat Thread - #44/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[02:26:06] [Server thread/INFO]: AFKBot lost connection: Disconnected
+[02:26:06] [Server thread/INFO]: AFKBot left the game
+[02:26:14] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[02:26:14] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[02:29:05] [Server thread/INFO]: Marcipoyo has made the advancement [Suit Up]
+[02:29:19] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:29:19] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:30:38] [Server thread/INFO]: XxClemexX issued server command: /give XxClemexX minecraft:blaze_rod 12
+[02:30:38] [Server thread/INFO]: [XxClemexX: Gave 12 [Blaze Rod] to XxClemexX]
+[02:32:20] [Async Chat Thread - #45/INFO]: [Not Secure] <Marcipoyo> DUERMAN
+[02:32:23] [Async Chat Thread - #45/INFO]: [Not Secure] <Marcipoyo> duerman
+[02:32:25] [Async Chat Thread - #45/INFO]: [Not Secure] <Marcipoyo> plis
+[02:32:26] [Async Chat Thread - #45/INFO]: [Not Secure] <Marcipoyo> porda
+[02:32:27] [Async Chat Thread - #45/INFO]: [Not Secure] <Mr_Martin14> como se dice
+[02:32:28] [Async Chat Thread - #45/INFO]: [Not Secure] <Marcipoyo> porfa
+[02:32:36] [Async Chat Thread - #45/INFO]: [Not Secure] <Marcipoyo> gordas de mierda
+[02:33:17] [User Authenticator #21/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[02:33:17] [Server thread/INFO]: AFKBot joined the game
+[02:33:17] [Server thread/INFO]: AFKBot[/127.181.37.241:45541] logged in with entity id 193264 at ([world]-3.5, 65.24918707874468, -1.5)
+[02:34:18] [Async Chat Thread - #47/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[02:35:03] [Server thread/INFO]: Mr_Martin14 has made the advancement [Ol' Betsy]
+[02:35:18] [Async Chat Thread - #49/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[02:36:18] [Async Chat Thread - #49/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[02:37:18] [Async Chat Thread - #49/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[02:38:18] [Async Chat Thread - #49/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
