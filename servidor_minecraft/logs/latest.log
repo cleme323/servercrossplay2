@@ -237,3 +237,11 @@
 [22:24:12] [Async Chat Thread - #20/INFO]: [Not Secure] <AFKBot> I'm a regular player
 [22:25:12] [Async Chat Thread - #20/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
 [22:26:12] [Async Chat Thread - #22/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[22:27:12] [Async Chat Thread - #22/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[22:28:12] [Async Chat Thread - #24/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[22:28:25] [Server thread/INFO]: AFKBot lost connection: Disconnected
+[22:28:25] [Server thread/INFO]: AFKBot left the game
+[22:32:20] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[22:32:20] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[22:32:44] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[22:32:44] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
