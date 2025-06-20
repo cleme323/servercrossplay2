@@ -591,3 +591,42 @@
 [04:08:52] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 4500.500000, 111.000000, -3482.500000]
 [04:10:35] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
 [04:10:35] [Server thread/INFO]: Mr_Martin14 left the game
+[04:22:51] [Async Chat Thread - #67/INFO]: [Not Secure] <XxClemexX> 6043 72 -1248
+[04:26:27] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[04:26:27] [Server thread/INFO]: XxClemexX left the game
+[04:27:28] [User Authenticator #28/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[04:27:29] [Server thread/INFO]: XxClemexX joined the game
+[04:27:29] [Server thread/INFO]: XxClemexX[/127.125.129.41:49799] logged in with entity id 287312 at ([world]6271.119294553352, 63.0, 148.8472840731914)
+[04:27:49] [Server thread/INFO]: XxClemexX lost connection: Disconnected
+[04:27:49] [Server thread/INFO]: XxClemexX left the game
+[04:28:25] [Server thread/INFO]: Marcipoyo has made the advancement [Ice Bucket Challenge]
+[04:28:30] [User Authenticator #29/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[04:28:32] [Server thread/INFO]: XxClemexX joined the game
+[04:28:32] [Server thread/INFO]: XxClemexX[/127.125.129.41:48671] logged in with entity id 287742 at ([world]6280.294635084823, 67.0, 167.93973387757785)
+[04:29:29] [User Authenticator #29/INFO]: UUID of player Radosglash is 747edbde-a311-31a1-b59f-4575cde2a873
+[04:29:34] [Server thread/INFO]: Radosglash joined the game
+[04:29:34] [Server thread/INFO]: Radosglash[/127.129.243.55:57975] logged in with entity id 288516 at ([world]3.5, 68.0, 10.5)
+[04:30:06] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[04:30:06] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[04:30:17] [Server thread/INFO]: XxClemexX issued server command: /tp Radosglash XxClemexX
+[04:30:17] [Server thread/INFO]: [XxClemexX: Teleported Radosglash to XxClemexX]
+[04:30:53] [Server thread/INFO]: XxClemexX issued server command: /tp 6300 100 300
+[04:30:53] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 6300.500000, 100.000000, 300.500000]
+[04:31:09] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[04:31:09] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[04:31:16] [Server thread/INFO]: Radosglash has made the advancement [Suit Up]
+[04:31:20] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[04:31:51] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[04:31:51] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[04:32:39] [Server thread/INFO]: XxClemexX issued server command: /tp 6300 100 300
+[04:32:39] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 6300.500000, 100.000000, 300.500000]
+[04:32:48] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[04:32:48] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[04:33:11] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[04:33:11] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[04:33:26] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:mooshroom
+[04:33:26] [Server thread/INFO]: [XxClemexX: Summoned new Mooshroom]
+[04:33:31] [Server thread/INFO]: XxClemexX issued server command: /tp 6300 100 300
+[04:33:31] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 6300.500000, 100.000000, 300.500000]
+[04:33:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[04:33:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
