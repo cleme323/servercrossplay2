@@ -191,3 +191,20 @@
 [01:18:33] [Async Chat Thread - #29/INFO]: [Not Secure] <AFKBot> I'm a regular player
 [01:19:31] [Server thread/INFO]: AFKBot lost connection: Disconnected
 [01:19:31] [Server thread/INFO]: AFKBot left the game
+[01:29:11] [Server thread/INFO]: XxClemexX has made the advancement [Diamonds!]
+[01:29:28] [Server thread/INFO]: XxClemexX was blown up by Creeper
+[01:29:37] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:30:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:30:02] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:30:29] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:30:29] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:35:02] [Server thread/INFO]: XxClemexX has made the advancement [Ol' Betsy]
+[01:35:03] [Server thread/INFO]: XxClemexX has made the advancement [Take Aim]
+[01:36:18] [Server thread/INFO]: Mr_Martin14 has made the advancement [A Terrible Fortress]
+[01:37:40] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[01:40:25] [Server thread/INFO]: Mr_Martin14 has made the advancement [Take Aim]
+[01:40:29] [Server thread/INFO]: Villager Villager['Villager'/240, uuid='2bdf9aaf-5c77-4652-b299-be6f09ce98f9', l='ServerLevel[world]', x=214.61, y=66.00, z=120.41, cpos=[13, 7], tl=61135, v=true] died, message: 'Villager was slain by Zombie'
+[01:41:54] [Server thread/INFO]: Mr_Martin14 has made the advancement [Into Fire]
+[01:44:16] [User Authenticator #15/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[01:44:17] [Server thread/INFO]: Zmind92 joined the game
+[01:44:17] [Server thread/INFO]: Zmind92[/127.61.129.132:38853] logged in with entity id 159489 at ([world]-184.69999998807907, -3.0, 14.520704396553834)
