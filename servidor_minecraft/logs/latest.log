@@ -684,3 +684,23 @@
 [05:14:57] [Server thread/INFO]: [XxClemexX: Applied enchantment Efficiency V to XxClemexX's item]
 [05:15:43] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
 [05:15:43] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:15:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:15:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:17:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:17:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:18:03] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:18:03] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:18:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:18:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:18:50] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:18:50] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:23:46] [Server thread/INFO]: XxClemexX issued server command: /enchant XxClemexX minecraft:efficiency 5
+[05:23:46] [Server thread/INFO]: [XxClemexX: Applied enchantment Efficiency V to XxClemexX's item]
+[05:24:43] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[05:24:43] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[05:24:54] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:24:54] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[05:25:23] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[05:25:23] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[05:25:38] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[05:25:38] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
