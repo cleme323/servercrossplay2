@@ -168,3 +168,18 @@
 [21:39:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
 [21:40:16] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
 [21:40:16] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[21:46:16] [Async Chat Thread - #4/INFO]: [Not Secure] <WaPapAu19> ty yobanyy chyorny
+[21:46:20] [Async Chat Thread - #4/INFO]: [Not Secure] <XxClemexX> ?
+[21:46:53] [Async Chat Thread - #4/INFO]: [Not Secure] <WaPapAu19> hablemos por discord?
+[21:46:57] [Async Chat Thread - #4/INFO]: [Not Secure] <XxClemexX> vale
+[21:52:21] [Async Chat Thread - #6/INFO]: [Not Secure] <WaPapAu19> botsito
+[21:52:32] [User Authenticator #5/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[21:52:33] [Netty Epoll Server IO #3/WARN]: [ViaVersion] (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
+[21:52:33] [Server thread/INFO]: AFKBot joined the game
+[21:52:33] [Server thread/INFO]: AFKBot[/127.242.239.239:46861] logged in with entity id 65415 at ([world]-9.5, 63.872088901363135, -2.5)
+[21:53:33] [Async Chat Thread - #8/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[21:53:39] [Async Chat Thread - #8/INFO]: [Not Secure] <WaPapAu19> really?
+[21:54:10] [Server thread/INFO]: AFKBot was slain by Zombie
+[21:54:28] [Async Chat Thread - #8/INFO]: [Not Secure] <WaPapAu19> mancooo
+[21:54:31] [Server thread/INFO]: AFKBot was blown up by Creeper
+[21:54:33] [Async Chat Thread - #8/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
