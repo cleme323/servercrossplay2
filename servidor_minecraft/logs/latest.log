@@ -259,3 +259,28 @@
 [23:16:16] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 1.4974995158945603
 [23:16:16] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 1.8307275977767858
 [23:16:16] [Server thread/WARN]: Oak Boat (vehicle of WaPapAu19) moved wrongly! 2.1748072157361094
+[23:17:29] [User Authenticator #9/INFO]: UUID of player AFKBot is f7c4ba52-346c-3338-9a6a-2cf73bc8e0e1
+[23:17:29] [Server thread/INFO]: AFKBot joined the game
+[23:17:29] [Server thread/INFO]: AFKBot[/127.205.111.87:53501] logged in with entity id 103197 at ([world]7939.251508572993, -41.0, -5898.475490021108)
+[23:18:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[23:19:17] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
+[23:19:17] [Server thread/INFO]: WaPapAu19 left the game
+[23:19:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[23:20:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[23:21:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[23:22:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[23:23:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[23:24:03] [User Authenticator #10/INFO]: UUID of player XxClemexX is 426825ea-561e-3c09-80f7-b04c7b8acd0c
+[23:24:04] [Server thread/INFO]: XxClemexX joined the game
+[23:24:04] [Server thread/INFO]: XxClemexX[/127.125.129.41:38277] logged in with entity id 105636 at ([world]2501.061865497517, -50.0, -4325.129012586668)
+[23:24:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[23:24:52] [Server thread/INFO]: XxClemexX issued server command: /deop XxClemexX
+[23:24:52] [Server thread/INFO]: [XxClemexX: Made XxClemexX no longer a server operator]
+[23:25:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> Subscibe To Slobos!
+[23:25:59] [Server thread/INFO]: Made XxClemexX a server operator
+[23:26:07] [Server thread/INFO]: XxClemexX issued server command: /tp AFKBot Zmind92
+[23:26:07] [Server thread/INFO]: [XxClemexX: Teleported AFKBot to Zmind92]
+[23:26:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I Like to Play Minecraft!
+[23:27:29] [Async Chat Thread - #28/INFO]: [Not Secure] <AFKBot> I'm a regular player
+[23:27:44] [Server thread/INFO]: AFKBot lost connection: Disconnected
+[23:27:44] [Server thread/INFO]: AFKBot left the game
