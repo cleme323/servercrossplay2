@@ -159,3 +159,13 @@
 [00:50:02] [Server thread/INFO]: Mr_Martin14 has made the advancement [War Pigs]
 [00:55:16] [Server thread/INFO]: Mr_Martin14 has made the advancement [Ice Bucket Challenge]
 [00:55:20] [Server thread/INFO]: Mr_Martin14 was shot by Skeleton
+[01:01:15] [Server thread/INFO]: XxClemexX issued server command: /spark tps
+[01:02:28] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:02:28] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:02:43] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:02:43] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:04:41] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[01:04:41] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[01:05:06] [Server thread/WARN]: XxClemexX moved too quickly! 39.57163506995039,0.0,35.35018592986353
+[01:05:14] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:05:14] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
