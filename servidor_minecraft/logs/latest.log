@@ -642,3 +642,13 @@
 [04:43:27] [Server thread/INFO]: Radosglash was slain by Zombie
 [04:44:28] [Server thread/INFO]: Radosglash lost connection: Timed out
 [04:44:28] [Server thread/INFO]: Radosglash left the game
+[04:45:01] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[04:45:01] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[04:45:09] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[04:45:09] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[04:48:10] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:mooshroom
+[04:48:10] [Server thread/INFO]: [XxClemexX: Summoned new Mooshroom]
+[04:48:34] [Server thread/INFO]: XxClemexX issued server command: /summon minecraft:mooshroom
+[04:48:34] [Server thread/INFO]: [XxClemexX: Summoned new Mooshroom]
+[04:49:00] [Server thread/INFO]: XxClemexX issued server command: /weather clear
+[04:49:00] [Server thread/INFO]: [XxClemexX: Set the weather to clear]
