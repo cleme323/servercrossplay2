@@ -153,3 +153,17 @@
 [02:08:54] [Async Chat Thread - #46/INFO]: [Not Secure] <WaPapAu19> chao hermani cleme
 [02:08:59] [Server thread/INFO]: WaPapAu19 lost connection: Disconnected
 [02:08:59] [Server thread/INFO]: WaPapAu19 left the game
+[02:19:16] [Server thread/INFO]: Made XxClemexX a server operator
+[02:19:26] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[02:19:26] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[02:19:42] [Server thread/INFO]: XxClemexX issued server command: /tp 2497.00 -48.64 -4325.02a
+[02:20:34] [Async Chat Thread - #48/INFO]: [Not Secure] <Mr_Martin14> yo me voy tambien chavalinajerinos
+[02:20:47] [Async Chat Thread - #48/INFO]: [Not Secure] <XxClemexX> bueno chao
+[02:20:53] [Server thread/INFO]: Mr_Martin14 lost connection: Disconnected
+[02:20:53] [Server thread/INFO]: Mr_Martin14 left the game
+[02:22:34] [Server thread/INFO]: XxClemexX issued server command: /tp 2497.00 -48.64 -4325.02
+[02:22:34] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2497.000000, -48.640000, -4325.020000]
+[02:22:41] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[02:22:41] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[02:22:49] [Server thread/INFO]: XxClemexX issued server command: /deop XxClemexX
+[02:22:49] [Server thread/INFO]: [XxClemexX: Made XxClemexX no longer a server operator]
