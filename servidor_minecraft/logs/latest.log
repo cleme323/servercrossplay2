@@ -17,3 +17,40 @@
 [00:20:04] [Server thread/INFO]: [XxClemexX: Applied effect Saturation to Zmind92]
 [00:24:47] [Server thread/INFO]: XxClemexX issued server command: /effect give Zmind92 minecraft:saturation 1 199
 [00:24:47] [Server thread/INFO]: [XxClemexX: Applied effect Saturation to Zmind92]
+[00:32:17] [Server thread/INFO]: Mr_Martin14 has made the advancement [Sneak 100]
+[00:32:36] [Server thread/INFO]: Zmind92 was blown up by Creeper
+[00:33:26] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 -1760 60 1100
+[00:33:26] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to -1759.500000, 60.000000, 1100.500000]
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 16.714685460566216,0.0,-11.695258474752109
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 17.042424390221186,0.0,-11.924577269786369
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 17.370163319873882,0.0,-12.153896064824039
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 17.697902249524304,0.0,-12.383214859864665
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 18.025641179172908,0.0,-12.612533654908248
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 18.353380108820147,0.0,-12.841852449954331
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 18.681119038465567,0.0,-13.071171245002688
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 19.008857968109623,0.0,-13.300490040052864
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 19.33659689775277,0.0,-13.529808835105086
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 19.664335827394552,0.0,-13.7591276301589
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 19.992074757035425,0.0,-13.988446425214079
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 20.31981368667539,0.0,-14.217765220270621
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 20.647552616314442,0.0,-14.4470840153283
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 20.97529154595304,0.0,-14.676402810387117
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 21.30303047559073,0.0,-14.905721605446843
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 21.630769405227966,0.0,-15.135040400507478
+[00:33:30] [Server thread/WARN]: Oak Boat (vehicle of Pedrinho08082010) moved too quickly! 21.958508334864746,0.0,-15.364359195569023
+[00:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[00:33:53] [Server thread/INFO]: Zmind92 drowned
+[00:34:01] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 -1760 80 1100
+[00:34:01] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to -1759.500000, 80.000000, 1100.500000]
+[00:34:24] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 1760 80 1100
+[00:34:24] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to 1760.500000, 80.000000, 1100.500000]
+[00:34:28] [Server thread/WARN]: Zmind92 was kicked for floating too long!
+[00:34:28] [Server thread/INFO]: Zmind92 lost connection: Flying is not enabled on this server
+[00:34:28] [Server thread/INFO]: Zmind92 left the game
+[00:34:38] [User Authenticator #14/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[00:34:39] [Server thread/INFO]: Zmind92 joined the game
+[00:34:39] [Server thread/INFO]: Zmind92[/127.61.129.132:57419] logged in with entity id 161342 at ([world]1760.5, 79.92159999847412, 1100.5)
+[00:36:02] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator Zmind92
+[00:36:02] [Server thread/INFO]: [XxClemexX: Set Zmind92's game mode to Spectator Mode]
+[00:38:02] [Server thread/INFO]: Pedrinho08082010 lost connection: Disconnected
+[00:38:02] [Server thread/INFO]: Pedrinho08082010 left the game
