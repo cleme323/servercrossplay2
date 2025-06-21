@@ -89,3 +89,39 @@
 [00:51:17] [Server thread/INFO]: Zmind92 issued server command: /trigger bizcub.death_coords.trigger1
 [00:51:26] [Server thread/INFO]: XxClemexX issued server command: /deop Zmind92
 [00:51:26] [Server thread/INFO]: [XxClemexX: Made Zmind92 no longer a server operator]
+[00:52:35] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 XxClemexX
+[00:52:35] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to XxClemexX]
+[00:52:41] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival Zmind92
+[00:52:41] [Server thread/INFO]: [XxClemexX: Set Zmind92's game mode to Survival Mode]
+[00:52:43] [Server thread/INFO]: Zmind92 fell from a high place
+[00:52:45] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 XxClemexX
+[00:52:45] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to XxClemexX]
+[00:52:47] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 XxClemexX
+[00:52:47] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to XxClemexX]
+[00:52:58] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[00:52:58] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[00:53:10] [Async Chat Thread - #40/INFO]: [Not Secure] <Mr_Martin14> estas en racha bestia
+[00:54:09] [Server thread/INFO]: Zmind92 was shot by Skeleton
+[00:54:12] [Server thread/INFO]: XxClemexX issued server command: /tp Zmind92 XxClemexX
+[00:54:12] [Server thread/INFO]: [XxClemexX: Teleported Zmind92 to XxClemexX]
+[00:56:40] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[00:56:40] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[00:58:25] [Server thread/INFO]: XxClemexX issued server command: /tp 2500 -50 4233
+[00:58:25] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2500.500000, -50.000000, 4233.500000]
+[00:58:37] [Server thread/INFO]: XxClemexX issued server command: /tp 2500 -50 -4233
+[00:58:37] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2500.500000, -50.000000, -4232.500000]
+[00:59:04] [Server thread/INFO]: XxClemexX issued server command: /tp 2500 -50 4323
+[00:59:04] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2500.500000, -50.000000, 4323.500000]
+[00:59:17] [Server thread/INFO]: XxClemexX issued server command: /tp 2500 -50 -4323
+[00:59:17] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to 2500.500000, -50.000000, -4322.500000]
+[00:59:35] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[00:59:35] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:00:31] [Server thread/INFO]: XxClemexX issued server command: /give Zmind92 minecraft:iron_ingot 64
+[01:00:31] [Server thread/INFO]: [XxClemexX: Gave 64 [Iron Ingot] to Zmind92]
+[01:01:01] [Server thread/INFO]: XxClemexX issued server command: /gamemode creative
+[01:01:01] [Server thread/INFO]: [XxClemexX: Set own game mode to Creative Mode]
+[01:01:02] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[01:01:02] [Server thread/INFO]: Zmind92 left the game
+[01:01:07] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[01:01:07] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[01:02:10] [Async Chat Thread - #42/INFO]: [Not Secure] <Mr_Martin14> porque se sale tanto el zmind ???
