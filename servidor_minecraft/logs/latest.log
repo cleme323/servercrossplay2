@@ -54,3 +54,38 @@
 [00:36:02] [Server thread/INFO]: [XxClemexX: Set Zmind92's game mode to Spectator Mode]
 [00:38:02] [Server thread/INFO]: Pedrinho08082010 lost connection: Disconnected
 [00:38:02] [Server thread/INFO]: Pedrinho08082010 left the game
+[00:41:51] [Async Chat Thread - #38/INFO]: [Not Secure] <WaPapAu19> que reglas hay ahora
+[00:41:58] [Async Chat Thread - #38/INFO]: [Not Secure] <WaPapAu19> se puede matar?
+[00:42:05] [Async Chat Thread - #38/INFO]: [Not Secure] <Mr_Martin14> Puedo fumar?
+[00:42:36] [Async Chat Thread - #38/INFO]: [Not Secure] <XxClemexX> si se puede solo que no se permite son los hacks y grifrear el spawn
+[00:42:49] [Async Chat Thread - #38/INFO]: [Not Secure] <WaPapAu19> ok
+[00:42:57] [Server thread/INFO]: Zmind92 issued server command: /trigger bizcub.death_coords.trigger1
+[00:43:01] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[00:43:01] [Server thread/INFO]: Zmind92 left the game
+[00:43:06] [User Authenticator #15/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[00:43:07] [Server thread/INFO]: Zmind92 joined the game
+[00:43:07] [Server thread/INFO]: Zmind92[/127.61.129.132:57597] logged in with entity id 172441 at ([world]1638.8884566709824, 129.71152294964935, 1522.706893247746)
+[00:43:13] [Server thread/INFO]: Zmind92 issued server command: /trigger bizcub.death_coords.trigger1
+[00:43:34] [Server thread/INFO]: Zmind92 lost connection: Disconnected
+[00:43:34] [Server thread/INFO]: Zmind92 left the game
+[00:47:37] [User Authenticator #16/INFO]: UUID of player Zmind92 is 2d4e6f62-1931-3e27-b0f5-5b01e7aa7b67
+[00:47:40] [Server thread/INFO]: Zmind92 joined the game
+[00:47:40] [Server thread/INFO]: Zmind92[/127.61.129.132:42791] logged in with entity id 174640 at ([world]1663.182142733543, 135.70585608304648, 1477.698742868029)
+[00:47:45] [Server thread/INFO]: Zmind92 issued server command: /trigger bizcub.death_coords.trigger1
+[00:47:51] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[00:47:51] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[00:48:31] [Server thread/INFO]: XxClemexX issued server command: /gamemode survival
+[00:48:31] [Server thread/INFO]: [XxClemexX: Set own game mode to Survival Mode]
+[00:48:52] [Server thread/INFO]: XxClemexX issued server command: /gamemode spectator
+[00:48:52] [Server thread/INFO]: [XxClemexX: Set own game mode to Spectator Mode]
+[00:49:05] [Server thread/INFO]: XxClemexX issued server command: /tp XxClemexX Zmind92
+[00:49:05] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to Zmind92]
+[00:50:11] [Server thread/INFO]: Mr_Martin14 has completed the challenge [It Spreads]
+[00:50:32] [Server thread/INFO]: XxClemexX issued server command: /op Zmind92
+[00:50:32] [Server thread/INFO]: [XxClemexX: Made Zmind92 a server operator]
+[00:50:36] [Server thread/INFO]: Zmind92 issued server command: /trigger bizcub.death_coords.trigger1
+[00:50:37] [Server thread/INFO]: XxClemexX issued server command: /tp XxClemexX Zmind92
+[00:50:37] [Server thread/INFO]: [XxClemexX: Teleported XxClemexX to Zmind92]
+[00:51:17] [Server thread/INFO]: Zmind92 issued server command: /trigger bizcub.death_coords.trigger1
+[00:51:26] [Server thread/INFO]: XxClemexX issued server command: /deop Zmind92
+[00:51:26] [Server thread/INFO]: [XxClemexX: Made Zmind92 no longer a server operator]
